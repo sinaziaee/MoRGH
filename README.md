@@ -7,10 +7,10 @@ Under Review in Journal of Intelligent Information Systems
 Authors: S.S. Ziaee, H. Rahmani, M. Nazari, M. Aghajani
 
 
-MoRGH: different steps: 
+MoRGH: main steps: 
 
 
-
+![MoRGH main Steps](https://raw.githubusercontent.com/sinaziaee/movie_recommender/master/figs/MoRGH_Overall.png)
 
 : Movie Recommender System using GNNs on Heterogeneous Graphs
 
