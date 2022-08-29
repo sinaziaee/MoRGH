@@ -5,8 +5,6 @@ a person can be interested based on a hybrid approach of collaborative filtering
 
 Under Review in Journal of Intelligent Information Systems
 
-Paper title:
-
 MoRGH: Movie Recommender System using GNNs on Heterogeneous Graphs
 
 Authors: S.S. Ziaee, H. Rahmani, M. Nazari, M. Aghajani
